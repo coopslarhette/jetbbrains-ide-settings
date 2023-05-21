@@ -1,0 +1,14 @@
+<application>
+  <component name="IgnoredPluginSuggestions">
+    <option name="pluginIds">
+      <list>
+        <option value="intellij.nextjs" />
+        <option value="intellij.vitejs" />
+        <option value="com.deadlock.scsyntax" />
+        <option value="intellij.prettierJS" />
+        <option value="com.jetbrains.lang.ejs" />
+        <option value="org.intellij.plugins.postcss" />
+      </list>
+    </option>
+  </component>
+</application>

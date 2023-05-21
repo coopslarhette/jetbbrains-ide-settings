@@ -1,0 +1,10 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <option name="LAST_BUILD_CHECKED" value="GO-223.7571.176" />
+    <option name="LAST_TIME_CHECKED" value="1684628117379" />
+    <pluginHosts>
+      <item value="https://plugins.jetbrains.com/plugins/Super-Early-Bird/list" />
+    </pluginHosts>
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+  </component>
+</application>
