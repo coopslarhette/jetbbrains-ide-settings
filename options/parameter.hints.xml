@@ -1,9 +1,0 @@
-<application>
-  <component name="ParameterNameHintsSettings">
-    <blacklists>
-      <blacklist language="Go">
-        <added pattern="FUNCTION:neeva.co/base/nlog#Infof(format,args...)" />
-      </blacklist>
-    </blacklists>
-  </component>
-</application>
